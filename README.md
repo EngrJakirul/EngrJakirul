@@ -1,13 +1,11 @@
-# 💫 About Me:
-### Hi there 👋, I'm Jakirul Hasan
-#### Back-end Developer
+
+## Hi there, I'm Jakirul Hasan
+### Back-end Developer
 ![Back-end Developer](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-1/332282650_967533317954576_1863349143479699608_n.jpg?stp=c62.0.200.200a_dst-jpg_p200x200&_nc_cat=103&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeE3cJfSzFBhIAs1xp-Taz1-YmzdOFBGH-pibN04UEYf6qlAs2SPz8dzkvbJIoWG7MrQA0GLJNAhDzrW3f87cbP3&_nc_ohc=rqFsB6k3CugAX_ljn7t&_nc_ht=scontent.fdac24-4.fna&oh=00_AfBX2iD4bkgqbk0UqSSRQebSnKXhX2gGqSBeL5WTuvSzKA&oe=6415F88C)
 
 I'm a Graduate of Daffodil International University. My Department is Computer Science & Engineering. I studied many subjects, but I was more focused on programming subjects. And I also have completed a Research Based Project. After that, I also did some Web projects for my starting career as a software engineer. I am very passionate about Software.
 
-
 🔭 I’m currently working on Laravel Project.<br>🌱 I’m currently learning Laravel<br>👯 I’m looking to collaborate with other backend Developers<br>💬 Ask me about Back-end development.<br>📫 How to reach me: jakirul.h.cse@gmail.com<br>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/engineerjakirul/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/engrjakirul/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/engrJakirul) 
