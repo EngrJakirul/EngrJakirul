@@ -21,7 +21,6 @@ I'm a Graduate of Daffodil International University. My Department is Computer S
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/engrJakirul)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
-[![](https://visitcount.itsvg.in/api?id=EngrJakirul&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
